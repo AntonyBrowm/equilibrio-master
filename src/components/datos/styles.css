@@ -1,0 +1,15 @@
+.puntoC{
+
+}
+.puntoD{
+    margin-top: 350px;
+}
+.puntoF{
+    margin-top: 50px;
+}
+.divTabla{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
